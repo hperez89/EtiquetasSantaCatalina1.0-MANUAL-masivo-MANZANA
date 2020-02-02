@@ -1,0 +1,74 @@
+C:\Users\SPSI\Desktop\CEREZA Santa Catalina 2019\EtiquetasSantaCatalina1.0\EtiquetasSantaCatalina1.0\bin\Debug\EtiquetasSantaCatalina1.0.exe
+C:\Users\SPSI\Desktop\CEREZA Santa Catalina 2019\EtiquetasSantaCatalina1.0\EtiquetasSantaCatalina1.0\bin\Debug\EtiquetasSantaCatalina1.0.pdb
+C:\Users\SPSI\Desktop\CEREZA Santa Catalina 2019\EtiquetasSantaCatalina1.0\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1._0.Form1.resources
+C:\Users\SPSI\Desktop\CEREZA Santa Catalina 2019\EtiquetasSantaCatalina1.0\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1._0.Properties.Resources.resources
+C:\Users\SPSI\Desktop\CEREZA Santa Catalina 2019\EtiquetasSantaCatalina1.0\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1.0.csproj.GenerateResource.cache
+C:\Users\SPSI\Desktop\CEREZA Santa Catalina 2019\EtiquetasSantaCatalina1.0\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1.0.csproj.CoreCompileInputs.cache
+C:\Users\SPSI\Desktop\CEREZA Santa Catalina 2019\EtiquetasSantaCatalina1.0\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1.0.csproj.CopyComplete
+C:\Users\SPSI\Desktop\CEREZA Santa Catalina 2019\EtiquetasSantaCatalina1.0\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1.0.exe
+C:\Users\SPSI\Desktop\CEREZA Santa Catalina 2019\EtiquetasSantaCatalina1.0\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1.0.pdb
+C:\Users\SPSI\Desktop\CEREZA Santa Catalina 2019\EtiquetasSantaCatalina1.0\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1.0.csprojResolveAssemblyReference.cache
+C:\Users\SPSI\Desktop\CEREZA Santa Catalina 2019\EtiquetasSantaCatalina1.0 MANUAL\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1._0.Form1.resources
+C:\Users\SPSI\Desktop\CEREZA Santa Catalina 2019\EtiquetasSantaCatalina1.0 MANUAL\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1._0.Form2.resources
+C:\Users\SPSI\Desktop\CEREZA Santa Catalina 2019\EtiquetasSantaCatalina1.0 MANUAL\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1._0.Properties.Resources.resources
+C:\Users\SPSI\Desktop\CEREZA Santa Catalina 2019\EtiquetasSantaCatalina1.0 MANUAL\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1.0.csproj.GenerateResource.cache
+C:\Users\SPSI\Desktop\CEREZA Santa Catalina 2019\EtiquetasSantaCatalina1.0 MANUAL\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1.0.csproj.CoreCompileInputs.cache
+C:\Users\SPSI\Desktop\CEREZA Santa Catalina 2019\EtiquetasSantaCatalina1.0 MANUAL\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1.0.exe
+C:\Users\SPSI\Desktop\CEREZA Santa Catalina 2019\EtiquetasSantaCatalina1.0 MANUAL\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1.0.pdb
+C:\Users\SPSI\Desktop\CEREZA Santa Catalina 2019\EtiquetasSantaCatalina1.0 MANUAL\EtiquetasSantaCatalina1.0\bin\Debug\EtiquetasSantaCatalina1.0.exe
+C:\Users\SPSI\Desktop\CEREZA Santa Catalina 2019\EtiquetasSantaCatalina1.0 MANUAL\EtiquetasSantaCatalina1.0\bin\Debug\EtiquetasSantaCatalina1.0.pdb
+C:\Users\SPSI\Desktop\CEREZA Santa Catalina 2019\EtiquetasSantaCatalina1.0 MANUAL\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1.0.csproj.CopyComplete
+C:\Users\SPSI\Desktop\CEREZA Santa Catalina 2019\EtiquetasSantaCatalina1.0 MANUAL masivo\EtiquetasSantaCatalina1.0\bin\Debug\EtiquetasSantaCatalina1.0.exe
+C:\Users\SPSI\Desktop\CEREZA Santa Catalina 2019\EtiquetasSantaCatalina1.0 MANUAL masivo\EtiquetasSantaCatalina1.0\bin\Debug\EtiquetasSantaCatalina1.0.pdb
+C:\Users\SPSI\Desktop\CEREZA Santa Catalina 2019\EtiquetasSantaCatalina1.0 MANUAL masivo\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1.0.csprojResolveAssemblyReference.cache
+C:\Users\SPSI\Desktop\CEREZA Santa Catalina 2019\EtiquetasSantaCatalina1.0 MANUAL masivo\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1._0.Form1.resources
+C:\Users\SPSI\Desktop\CEREZA Santa Catalina 2019\EtiquetasSantaCatalina1.0 MANUAL masivo\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1._0.Form2.resources
+C:\Users\SPSI\Desktop\CEREZA Santa Catalina 2019\EtiquetasSantaCatalina1.0 MANUAL masivo\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1._0.Properties.Resources.resources
+C:\Users\SPSI\Desktop\CEREZA Santa Catalina 2019\EtiquetasSantaCatalina1.0 MANUAL masivo\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1.0.csproj.GenerateResource.cache
+C:\Users\SPSI\Desktop\CEREZA Santa Catalina 2019\EtiquetasSantaCatalina1.0 MANUAL masivo\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1.0.csproj.CoreCompileInputs.cache
+C:\Users\SPSI\Desktop\CEREZA Santa Catalina 2019\EtiquetasSantaCatalina1.0 MANUAL masivo\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1.0.csproj.CopyComplete
+C:\Users\SPSI\Desktop\CEREZA Santa Catalina 2019\EtiquetasSantaCatalina1.0 MANUAL masivo\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1.0.exe
+C:\Users\SPSI\Desktop\CEREZA Santa Catalina 2019\EtiquetasSantaCatalina1.0 MANUAL masivo\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1.0.pdb
+C:\Users\SPSI\Desktop\CEREZA Santa Catalina 2019\EtiquetasSantaCatalina1.0 MANUAL masivo CIRUELAS\EtiquetasSantaCatalina1.0\bin\Debug\EtiquetasSantaCatalina1.0.exe
+C:\Users\SPSI\Desktop\CEREZA Santa Catalina 2019\EtiquetasSantaCatalina1.0 MANUAL masivo CIRUELAS\EtiquetasSantaCatalina1.0\bin\Debug\EtiquetasSantaCatalina1.0.pdb
+C:\Users\SPSI\Desktop\CEREZA Santa Catalina 2019\EtiquetasSantaCatalina1.0 MANUAL masivo CIRUELAS\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1.0.csprojResolveAssemblyReference.cache
+C:\Users\SPSI\Desktop\CEREZA Santa Catalina 2019\EtiquetasSantaCatalina1.0 MANUAL masivo CIRUELAS\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1._0.Form1.resources
+C:\Users\SPSI\Desktop\CEREZA Santa Catalina 2019\EtiquetasSantaCatalina1.0 MANUAL masivo CIRUELAS\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1._0.Form2.resources
+C:\Users\SPSI\Desktop\CEREZA Santa Catalina 2019\EtiquetasSantaCatalina1.0 MANUAL masivo CIRUELAS\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1._0.Properties.Resources.resources
+C:\Users\SPSI\Desktop\CEREZA Santa Catalina 2019\EtiquetasSantaCatalina1.0 MANUAL masivo CIRUELAS\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1.0.csproj.GenerateResource.cache
+C:\Users\SPSI\Desktop\CEREZA Santa Catalina 2019\EtiquetasSantaCatalina1.0 MANUAL masivo CIRUELAS\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1.0.csproj.CoreCompileInputs.cache
+C:\Users\SPSI\Desktop\CEREZA Santa Catalina 2019\EtiquetasSantaCatalina1.0 MANUAL masivo CIRUELAS\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1.0.csproj.CopyComplete
+C:\Users\SPSI\Desktop\CEREZA Santa Catalina 2019\EtiquetasSantaCatalina1.0 MANUAL masivo CIRUELAS\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1.0.exe
+C:\Users\SPSI\Desktop\CEREZA Santa Catalina 2019\EtiquetasSantaCatalina1.0 MANUAL masivo CIRUELAS\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1.0.pdb
+C:\Users\SPSI\Desktop\CIRUELA Santa Catalina 2020\EtiquetasSantaCatalina1.0 MANUAL masivo CIRUELAS\EtiquetasSantaCatalina1.0\bin\Debug\EtiquetasSantaCatalina1.0.exe
+C:\Users\SPSI\Desktop\CIRUELA Santa Catalina 2020\EtiquetasSantaCatalina1.0 MANUAL masivo CIRUELAS\EtiquetasSantaCatalina1.0\bin\Debug\EtiquetasSantaCatalina1.0.pdb
+C:\Users\SPSI\Desktop\CIRUELA Santa Catalina 2020\EtiquetasSantaCatalina1.0 MANUAL masivo CIRUELAS\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1._0.Form1.resources
+C:\Users\SPSI\Desktop\CIRUELA Santa Catalina 2020\EtiquetasSantaCatalina1.0 MANUAL masivo CIRUELAS\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1._0.Form2.resources
+C:\Users\SPSI\Desktop\CIRUELA Santa Catalina 2020\EtiquetasSantaCatalina1.0 MANUAL masivo CIRUELAS\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1._0.Properties.Resources.resources
+C:\Users\SPSI\Desktop\CIRUELA Santa Catalina 2020\EtiquetasSantaCatalina1.0 MANUAL masivo CIRUELAS\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1.0.csproj.GenerateResource.cache
+C:\Users\SPSI\Desktop\CIRUELA Santa Catalina 2020\EtiquetasSantaCatalina1.0 MANUAL masivo CIRUELAS\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1.0.csproj.CoreCompileInputs.cache
+C:\Users\SPSI\Desktop\CIRUELA Santa Catalina 2020\EtiquetasSantaCatalina1.0 MANUAL masivo CIRUELAS\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1.0.csproj.CopyComplete
+C:\Users\SPSI\Desktop\CIRUELA Santa Catalina 2020\EtiquetasSantaCatalina1.0 MANUAL masivo CIRUELAS\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1.0.exe
+C:\Users\SPSI\Desktop\CIRUELA Santa Catalina 2020\EtiquetasSantaCatalina1.0 MANUAL masivo CIRUELAS\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1.0.pdb
+C:\Users\SPSI\Desktop\Manzana Santa Catalina 2020 - copia\EtiquetasSantaCatalina1.0 MANUAL masivo MANZANA\EtiquetasSantaCatalina1.0\bin\Debug\EtiquetasSantaCatalina1.0.exe
+C:\Users\SPSI\Desktop\Manzana Santa Catalina 2020 - copia\EtiquetasSantaCatalina1.0 MANUAL masivo MANZANA\EtiquetasSantaCatalina1.0\bin\Debug\EtiquetasSantaCatalina1.0.pdb
+C:\Users\SPSI\Desktop\Manzana Santa Catalina 2020 - copia\EtiquetasSantaCatalina1.0 MANUAL masivo MANZANA\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1.0.csprojResolveAssemblyReference.cache
+C:\Users\SPSI\Desktop\Manzana Santa Catalina 2020 - copia\EtiquetasSantaCatalina1.0 MANUAL masivo MANZANA\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1._0.Form1.resources
+C:\Users\SPSI\Desktop\Manzana Santa Catalina 2020 - copia\EtiquetasSantaCatalina1.0 MANUAL masivo MANZANA\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1._0.Form2.resources
+C:\Users\SPSI\Desktop\Manzana Santa Catalina 2020 - copia\EtiquetasSantaCatalina1.0 MANUAL masivo MANZANA\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1._0.Properties.Resources.resources
+C:\Users\SPSI\Desktop\Manzana Santa Catalina 2020 - copia\EtiquetasSantaCatalina1.0 MANUAL masivo MANZANA\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1.0.csproj.GenerateResource.cache
+C:\Users\SPSI\Desktop\Manzana Santa Catalina 2020 - copia\EtiquetasSantaCatalina1.0 MANUAL masivo MANZANA\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1.0.csproj.CoreCompileInputs.cache
+C:\Users\SPSI\Desktop\Manzana Santa Catalina 2020 - copia\EtiquetasSantaCatalina1.0 MANUAL masivo MANZANA\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1.0.csproj.CopyComplete
+C:\Users\SPSI\Desktop\Manzana Santa Catalina 2020 - copia\EtiquetasSantaCatalina1.0 MANUAL masivo MANZANA\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1.0.exe
+C:\Users\SPSI\Desktop\Manzana Santa Catalina 2020 - copia\EtiquetasSantaCatalina1.0 MANUAL masivo MANZANA\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1.0.pdb
+C:\Users\SPSI\Desktop\Manzana Santa Catalina 2020\EtiquetasSantaCatalina1.0 MANUAL masivo MANZANA\EtiquetasSantaCatalina1.0\bin\Debug\EtiquetasSantaCatalina1.0.exe
+C:\Users\SPSI\Desktop\Manzana Santa Catalina 2020\EtiquetasSantaCatalina1.0 MANUAL masivo MANZANA\EtiquetasSantaCatalina1.0\bin\Debug\EtiquetasSantaCatalina1.0.pdb
+C:\Users\SPSI\Desktop\Manzana Santa Catalina 2020\EtiquetasSantaCatalina1.0 MANUAL masivo MANZANA\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1.0.csprojResolveAssemblyReference.cache
+C:\Users\SPSI\Desktop\Manzana Santa Catalina 2020\EtiquetasSantaCatalina1.0 MANUAL masivo MANZANA\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1._0.Form1.resources
+C:\Users\SPSI\Desktop\Manzana Santa Catalina 2020\EtiquetasSantaCatalina1.0 MANUAL masivo MANZANA\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1._0.Form2.resources
+C:\Users\SPSI\Desktop\Manzana Santa Catalina 2020\EtiquetasSantaCatalina1.0 MANUAL masivo MANZANA\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1._0.Properties.Resources.resources
+C:\Users\SPSI\Desktop\Manzana Santa Catalina 2020\EtiquetasSantaCatalina1.0 MANUAL masivo MANZANA\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1.0.csproj.GenerateResource.cache
+C:\Users\SPSI\Desktop\Manzana Santa Catalina 2020\EtiquetasSantaCatalina1.0 MANUAL masivo MANZANA\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1.0.csproj.CoreCompileInputs.cache
+C:\Users\SPSI\Desktop\Manzana Santa Catalina 2020\EtiquetasSantaCatalina1.0 MANUAL masivo MANZANA\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1.0.csproj.CopyComplete
+C:\Users\SPSI\Desktop\Manzana Santa Catalina 2020\EtiquetasSantaCatalina1.0 MANUAL masivo MANZANA\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1.0.exe
+C:\Users\SPSI\Desktop\Manzana Santa Catalina 2020\EtiquetasSantaCatalina1.0 MANUAL masivo MANZANA\EtiquetasSantaCatalina1.0\obj\Debug\EtiquetasSantaCatalina1.0.pdb
