@@ -75,7 +75,7 @@ namespace EtiquetasSantaCatalina1._0
             string exportadora = "--";
             try
             {
-                comando = new SqlCommand("SELECT TOP 1 convert(varchar(10),SFruticola_SPSI.dba.TRA.cli_codigo) FROM SFruticola_SPSI.dba.TRA ORDER BY SFruticola_SPSI.dba.TRA.FechaDigi DESC", cn2);
+                comando = new SqlCommand("SELECT TOP 1 convert(varchar(10),SFruticola_SPSI.dba.TRA.cli_codigo) FROM SFruticola_SPSI.dba.TRA WHERE SFruticola_SPSI.dba.TRA.espe_codigo = '" + Form2.codigo_especie + "' ORDER BY SFruticola_SPSI.dba.TRA.FechaDigi DESC", cn2);
                 SqlDataReader reader = comando.ExecuteReader();
                 while (reader.Read())
                 {
@@ -129,7 +129,7 @@ namespace EtiquetasSantaCatalina1._0
             string csg_vaciado = "--";
             try
             {
-                comando = new SqlCommand("SELECT TOP 1 convert(varchar(10),SFruticola_SPSI.dba.TRA.prod_codigo) FROM SFruticola_SPSI.dba.TRA ORDER BY SFruticola_SPSI.dba.TRA.FechaDigi DESC", cn2);
+                comando = new SqlCommand("SELECT TOP 1 convert(varchar(10),SFruticola_SPSI.dba.TRA.prod_codigo) FROM SFruticola_SPSI.dba.TRA ORDER WHERE SFruticola_SPSI.dba.TRA.espe_codigo = '" + Form2.codigo_especie + "' BY SFruticola_SPSI.dba.TRA.FechaDigi DESC", cn2);
                 SqlDataReader reader = comando.ExecuteReader();
                 while (reader.Read())
                 {
@@ -147,7 +147,7 @@ namespace EtiquetasSantaCatalina1._0
             string productor_nombre = "--";
             try
             {
-                comando = new SqlCommand("SELECT TOP 1 SFruticola_SPSI.dba.productores.prod_nombre FROM SFruticola_SPSI.dba.TRA, SFruticola_SPSI.dba.productores WHERE SFruticola_SPSI.dba.TRA.prod_codigo = SFruticola_SPSI.dba.productores.prod_codigo ORDER BY SFruticola_SPSI.dba.TRA.FechaDigi DESC", cn2);
+                comando = new SqlCommand("SELECT TOP 1 SFruticola_SPSI.dba.productores.prod_nombre FROM SFruticola_SPSI.dba.TRA, SFruticola_SPSI.dba.productores WHERE SFruticola_SPSI.dba.TRA.prod_codigo = SFruticola_SPSI.dba.productores.prod_codigo AND SFruticola_SPSI.dba.TRA.espe_codigo = '" + Form2.codigo_especie + "' ORDER BY SFruticola_SPSI.dba.TRA.FechaDigi DESC", cn2);
                 SqlDataReader reader = comando.ExecuteReader();
                 while (reader.Read())
                 {
@@ -183,7 +183,7 @@ namespace EtiquetasSantaCatalina1._0
             string variedad = "--";
             try
             {
-                comando = new SqlCommand("SELECT TOP 1 SFruticola_SPSI.dba.variedades.vari_nombre FROM SFruticola_SPSI.dba.TRA, SFruticola_SPSI.dba.variedades WHERE SFruticola_SPSI.dba.TRA.vari_codigo = SFruticola_SPSI.dba.variedades.vari_codigo ORDER BY SFruticola_SPSI.dba.TRA.FechaDigi DESC", cn2);
+                comando = new SqlCommand("SELECT TOP 1 SFruticola_SPSI.dba.variedades.vari_nombre FROM SFruticola_SPSI.dba.TRA, SFruticola_SPSI.dba.variedades WHERE SFruticola_SPSI.dba.TRA.vari_codigo = SFruticola_SPSI.dba.variedades.vari_codigo AND SFruticola_SPSI.dba.TRA.espe_codigo = '" + Form2.codigo_especie + "' ORDER BY SFruticola_SPSI.dba.TRA.FechaDigi DESC", cn2);
                 SqlDataReader reader = comando.ExecuteReader();
                 while (reader.Read())
                 {
@@ -201,7 +201,7 @@ namespace EtiquetasSantaCatalina1._0
             string lote = "--";
             try
             {
-                comando = new SqlCommand("SELECT TOP 1 convert(varchar(10),SFruticola_SPSI.dba.TRA.nlote) FROM SFruticola_SPSI.dba.TRA ORDER BY SFruticola_SPSI.dba.TRA.FechaDigi DESC", cn2);
+                comando = new SqlCommand("SELECT TOP 1 convert(varchar(10),SFruticola_SPSI.dba.TRA.nlote) FROM SFruticola_SPSI.dba.TRA ORDER WHERE SFruticola_SPSI.dba.TRA.espe_codigo = '" + Form2.codigo_especie + "' BY SFruticola_SPSI.dba.TRA.FechaDigi DESC", cn2);
                 SqlDataReader reader = comando.ExecuteReader();
                 while (reader.Read())
                 {
@@ -219,7 +219,7 @@ namespace EtiquetasSantaCatalina1._0
             string proceso = "--";
             try
             {
-                comando = new SqlCommand("SELECT TOP 1 convert(varchar(10),SFruticola_SPSI.dba.TRA.proceso) FROM SFruticola_SPSI.dba.TRA ORDER BY SFruticola_SPSI.dba.TRA.FechaDigi DESC", cn2);
+                comando = new SqlCommand("SELECT TOP 1 convert(varchar(10),SFruticola_SPSI.dba.TRA.proceso) FROM SFruticola_SPSI.dba.TRA WHERE SFruticola_SPSI.dba.TRA.espe_codigo = '" + Form2.codigo_especie + "' ORDER BY SFruticola_SPSI.dba.TRA.FechaDigi DESC", cn2);
                 SqlDataReader reader = comando.ExecuteReader();
                 while (reader.Read())
                 {
@@ -237,7 +237,7 @@ namespace EtiquetasSantaCatalina1._0
             string CSE = "000000";
             try
             {
-                comando = new SqlCommand("SELECT TOP 1 convert(varchar(10),SFruticola_SPSI.dba.exportadores.exp_id) FROM SFruticola_SPSI.dba.TRA, SFruticola_SPSI.dba.exportadores WHERE SFruticola_SPSI.dba.TRA.cli_codigo = SFruticola_SPSI.dba.exportadores.exp_codigo ORDER BY SFruticola_SPSI.dba.TRA.FechaDigi DESC", cn2);
+                comando = new SqlCommand("SELECT TOP 1 convert(varchar(10),SFruticola_SPSI.dba.exportadores.exp_id) FROM SFruticola_SPSI.dba.TRA, SFruticola_SPSI.dba.exportadores WHERE SFruticola_SPSI.dba.TRA.cli_codigo = SFruticola_SPSI.dba.exportadores.exp_codigo AND SFruticola_SPSI.dba.TRA.espe_codigo = '" + Form2.codigo_especie + "' ORDER BY SFruticola_SPSI.dba.TRA.FechaDigi DESC", cn2);
                 SqlDataReader reader = comando.ExecuteReader();
                 while (reader.Read())
                 {

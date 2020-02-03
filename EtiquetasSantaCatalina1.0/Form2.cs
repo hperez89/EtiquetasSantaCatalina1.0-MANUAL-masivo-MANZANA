@@ -27,6 +27,7 @@ namespace EtiquetasSantaCatalina1._0
         public static string vaciado_cli_codigo = "", vaciado_csg = "", vaciado_productor = "", vaciado_lote = "", vaciado_proceso = "", vaciado_variedad = "", vaciado_cse = "";
         public static SqlDataReader reader;
         public static SqlCommand comando;
+        public static string codigo_especie;
         private void metroTile1_Click(object sender, EventArgs e)
         {
             //sql_masivo = "";
@@ -73,6 +74,14 @@ namespace EtiquetasSantaCatalina1._0
             CargarEmbajales();
             CargarProductores();
             CargarExportadores();
+            //leer codigo_especie
+            StreamReader lectura2 = new StreamReader("codigo_especie.txt");
+            string lineax = "";
+            while ((lineax = lectura2.ReadLine()) != null)            //recorro linea a linea el documento y lo almaceno en el array variables
+            {                                                       //para ir guardando las variables ya que no todas tienen el mismo nombre
+                codigo_especie = Convert.ToString(lineax);
+            }
+            lectura2.Close();
             //ultimo codigo guardado
             //StreamReader lectura2 = new StreamReader("ultimaetiq.txt");
             //string lineax = "";
@@ -648,6 +657,13 @@ namespace EtiquetasSantaCatalina1._0
             ProductorBox.Text = set_productor;
             ExportadorBox.Text = set_exportador;
             CalibreBox.Text = set_calibre;
+            StreamReader lectura2 = new StreamReader("codigo_especie.txt");
+            string lineax = "";
+            while ((lineax = lectura2.ReadLine()) != null)            //recorro linea a linea el documento y lo almaceno en el array variables
+            {                                                       //para ir guardando las variables ya que no todas tienen el mismo nombre
+                codigo_especie = Convert.ToString(lineax);
+            }
+            lectura2.Close();
         }
 
         private void CargarExportadores()
